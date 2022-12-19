@@ -2,7 +2,7 @@
 %global __requires_exclude_from plugins/.*/(.*-aarch64/.*\.so|.*/bin/.*\.js)$
 
 Name:           pycharm-professional
-Version:        2022.2.2
+Version:        2022.3
 Release:        1%{?dist}
 Summary:        The Python IDE for Professional Developers
 License:        custom
